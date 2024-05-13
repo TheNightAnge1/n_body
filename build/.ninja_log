@@ -1,0 +1,14 @@
+# ninja log v5
+10	919	7368915638544300	ver0/CMakeFiles/n_body.dir/main.cpp.obj	26766cfff8b9f984
+6	1348	7368915642792949	ver0/CMakeFiles/n_body.dir/GSimulation.cpp.obj	47f2b096d9bd16e8
+1348	1925	7368915645545378	ver0/n_body.exe	d486d6ef5a7d55dc
+7	1261	7368921075367779	ver1/CMakeFiles/n_body.dir/GSimulation.cpp.obj	fdea20fa6ae7fcfe
+12	828	7368921071013840	ver1/CMakeFiles/n_body.dir/main.cpp.obj	803787d492f4dd4
+1261	1854	7368921078432007	ver1/n_body.exe	f3c9ea32ebdc5d38
+19	26	0	clean	95e5ce6ceae007cb
+21	2551	7368847045486219	ver2/CMakeFiles/n_body.dir/main.cpp.obj	4a8ecd92d4ed9362
+12	4138	7368847061128229	ver2/CMakeFiles/n_body.dir/GSimulation.cpp.obj	615d728fa75c49a9
+4139	6421	7368847071767177	ver2/n_body.exe	5edcabe8f4775ad4
+14	1050	7369442156471356	ver0/CMakeFiles/n_body.dir/main.cpp.obj	26766cfff8b9f984
+10	1633	7369442162325274	ver0/CMakeFiles/n_body.dir/GSimulation.cpp.obj	47f2b096d9bd16e8
+1634	2980	7369442169332917	ver0/n_body.exe	d486d6ef5a7d55dc

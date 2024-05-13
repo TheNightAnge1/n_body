@@ -1,0 +1,5 @@
+E:/study/Maga/II_term/HPC/labs/n_body/build/CMakeFiles/edit_cache.dir
+E:/study/Maga/II_term/HPC/labs/n_body/build/CMakeFiles/rebuild_cache.dir
+E:/study/Maga/II_term/HPC/labs/n_body/build/ver0/CMakeFiles/n_body.dir
+E:/study/Maga/II_term/HPC/labs/n_body/build/ver0/CMakeFiles/edit_cache.dir
+E:/study/Maga/II_term/HPC/labs/n_body/build/ver0/CMakeFiles/rebuild_cache.dir

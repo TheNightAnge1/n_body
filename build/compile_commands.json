@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/study/Maga/II_term/HPC/labs/n_body/build",
+  "command": "C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP -I\"C:\\Program Files (x86)\\Intel\\oneAPI\\advisor\\latest\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /QxCORE-AVX2 /Qopenmp /Qprec-sqrt /Fover0\\CMakeFiles\\n_body.dir\\GSimulation.cpp.obj /Fdver0\\CMakeFiles\\n_body.dir\\ -c E:\\study\\Maga\\II_term\\HPC\\labs\\n_body\\ver0\\GSimulation.cpp",
+  "file": "E:\\study\\Maga\\II_term\\HPC\\labs\\n_body\\ver0\\GSimulation.cpp",
+  "output": "ver0\\CMakeFiles\\n_body.dir\\GSimulation.cpp.obj"
+},
+{
+  "directory": "E:/study/Maga/II_term/HPC/labs/n_body/build",
+  "command": "C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP -I\"C:\\Program Files (x86)\\Intel\\oneAPI\\advisor\\latest\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /QxCORE-AVX2 /Qopenmp /Qprec-sqrt /Fover0\\CMakeFiles\\n_body.dir\\main.cpp.obj /Fdver0\\CMakeFiles\\n_body.dir\\ -c E:\\study\\Maga\\II_term\\HPC\\labs\\n_body\\ver0\\main.cpp",
+  "file": "E:\\study\\Maga\\II_term\\HPC\\labs\\n_body\\ver0\\main.cpp",
+  "output": "ver0\\CMakeFiles\\n_body.dir\\main.cpp.obj"
+}
+]
